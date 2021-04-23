@@ -1,5 +1,10 @@
-# coding
+# Coding
 Personal coding practice
 
-Trees
-- Traversals, BFS, DFS
+### Trees
+- Traversals
+  - Preorder
+  - Inorder
+  - Postorder
+- BFS
+- DFS
